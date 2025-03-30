@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damien Padilla</h1>
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science<br/>
-🌷 #learninginpublic in my <br/>
-💭 Currently learning about data analytics and <br/>
+💻 Software Developer<br/>
+👩🏻‍🎓 Studying Software Development at Grand Canyon University<br/>
+📑 Currently wokring on a Capstone Project<br/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damien-padilla-a92130288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damienpadilla268@gmail.com) 
