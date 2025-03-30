@@ -1,8 +1,6 @@
-Project-Portfolio
 
-Welcome to my Project Portfolio Repository! This repository provides links to all of my GitHub projects.
 <h1 align="center">Hi 👋, I'm Damien Padilla</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">Welcome to my Project Portfolio Repository! This repository provides links to all of my GitHub projects and describes a little about me.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
