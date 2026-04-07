@@ -1,5 +1,5 @@
 # Hi 👋, I'm Damien Padilla
-* 🧑‍💻 Software Developer<br/>
+* 🧑‍💻 Full-Stack Software Developer | C# • Java • JavaScript • SQL • ASP.NET Core • Spring Boot •  | Seeking Software Development Internship<br/>
 * 👩🏻‍🎓 Studying Software Development at Grand Canyon University<br/>
 * 💼 Check out my [Project Portfolio](https://github.com/Pohaku808/Project-Portfolio.git) <br/>
 
