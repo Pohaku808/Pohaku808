@@ -1,7 +1,6 @@
 # Hi 👋, I'm Damien Padilla
 * 🧑‍💻 Software Developer<br/>
 * 👩🏻‍🎓 Studying Software Development at Grand Canyon University<br/>
-* 📑 Currently wokring on a Capstone Project<br/>
 * 💼 Check out my [Project Portfolio](https://github.com/Pohaku808/Project-Portfolio.git) <br/>
 
 # 🌐 Socials:
